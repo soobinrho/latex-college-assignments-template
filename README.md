@@ -1,6 +1,6 @@
 # LaTeX Template for College Assignments
 `North American GeoGebra Journal Template` 
-`Jupyter Lab Code Cells Preambles`
+`Jupyter Lab Code-Cells Preambles`
 
 ## Sources
 First, this template is a clone of the 

@@ -28,7 +28,7 @@ git clone https://github.com/soobinrho/latex-college-assignments-template.git
 
 Alternatively, you could just click `Download ZIP`.
 
-![download_zip](https://user-images.githubusercontent.com/19341857/174744769-fe72cf22-630e-48e8-8a05-eae448b0e858.jpg)
+![1](https://user-images.githubusercontent.com/19341857/174758825-c2caf22c-29cb-4ffa-816c-5ad1c4a0613e.png)
 
 After you download this repository, you can use it just as a normal `.tex` file. 
 Personally, I edit all my $\LaTeX$ documents by:

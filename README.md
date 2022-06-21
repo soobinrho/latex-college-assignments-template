@@ -1,7 +1,6 @@
 # <img src="https://render.githubusercontent.com/render/math?math=\LaTeX"> Template for College Assignments
-`North American GeoGebra Journal Template` <br>
+`North American GeoGebra Journal Template` 
 `Jupyter Lab Code Output Cells Template`
-***
 
 ## Sources
 First, this template was cloned from [https://github.com/jamesquinlan/nagj](https://github.com/jamesquinlan/nagj). 

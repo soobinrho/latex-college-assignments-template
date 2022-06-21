@@ -5,7 +5,7 @@
 ## Sources
 First, this template is a clone of the 
 [North American GeoGebra Journal Template](https://github.com/jamesquinlan/nagj). 
-Also, Jupyter Lab's $\LaTeX$ preambles for
+Also, `Jupyter Lab`'s $\LaTeX$ preambles for
 code cells were combined together.
 What this means is that this template has
 the best of both worlds. 

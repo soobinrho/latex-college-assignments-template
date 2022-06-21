@@ -30,8 +30,7 @@ Alternatively, you could just click `Download ZIP`.
 ![download_zip](https://user-images.githubusercontent.com/19341857/174744769-fe72cf22-630e-48e8-8a05-eae448b0e858.jpg)
 
 After you download this repository, you can use it just as a normal `.tex` file. 
-Personally, I edit all my <img src="https://render.githubusercontent.com/render/math?math=\LaTeX">
-documents by:
+Personally, I edit all my $\LaTeX$ documents by:
 1. downloading [TeX Live](https://www.tug.org/texlive/),
 2. installing Jupyter Lab, which comes with [Anaconda](https://www.anaconda.com/), and
 3. using [Jupyter Lab LaTeX Extension](https://github.com/jupyterlab/jupyterlab-latex).

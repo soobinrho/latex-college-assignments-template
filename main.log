@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.6.17)  21 JUN 2022 01:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.6.21)  21 JUN 2022 02:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1194,7 +1194,7 @@ File: T1DejaVuSansMono-TLF.fd 2011/06/01 Font definitions for T1/DejaVuSansMono
 -TLF.
 )
 LaTeX Font Info:    Trying to load font information for TS1+DejaVuSansMono-TLF 
-on input line 10.
+on input line 29.
 
 (/usr/share/texlive/texmf-dist/tex/latex/dejavu/TS1DejaVuSansMono-TLF.fd
 File: TS1DejaVuSansMono-TLF.fd 2011/06/01 Font definitions for TS1/DejaVuSansMo
@@ -1202,7 +1202,7 @@ no-TLF.
 )
 
 LaTeX Font Warning: Font shape `T1/cmr/m/scit' undefined
-(Font)              using `T1/cmr/m/it' instead on input line 25.
+(Font)              using `T1/cmr/m/it' instead on input line 51.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1210,55 +1210,48 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1{/usr/share/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [2]
-Underfull \hbox (badness 10000) in paragraph at lines 198--199
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [3]
-Overfull \hbox (354.42685pt too wide) in paragraph at lines 233--233
+ [2]
+Overfull \hbox (354.42685pt too wide) in paragraph at lines 149--149
 []\T1/DejaVuSansMono-TLF/m/n/12 Let  $\{1,2,3\}$ and $\{2,1,3\}$ be two lists o
 f integers.  Then, to check if the two lists are equal we would have,[] 
  []
 
 
 LaTeX Font Warning: Font shape `T1/cmr/m/scit' undefined
-(Font)              using `T1/cmr/m/it' instead on input line 249.
+(Font)              using `T1/cmr/m/it' instead on input line 165.
 
 
 LaTeX Font Warning: Font shape `T1/cmr/m/scit' undefined
-(Font)              using `T1/cmr/m/it' instead on input line 270.
+(Font)              using `T1/cmr/m/it' instead on input line 186.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [4]
+ [3]
 
 LaTeX Font Warning: Font shape `T1/cmr/m/scit' undefined
-(Font)              using `T1/cmr/m/it' instead on input line 302.
+(Font)              using `T1/cmr/m/it' instead on input line 218.
 
-<figs/venn.pdf, id=64, 574.41132pt x 404.89148pt>
+<figs/venn.pdf, id=86, 574.41132pt x 404.89148pt>
 File: figs/venn.pdf Graphic file (type pdf)
 <use figs/venn.pdf>
-Package pdftex.def Info: figs/venn.pdf  used on input line 307.
+Package pdftex.def Info: figs/venn.pdf  used on input line 223.
 (pdftex.def)             Requested size: 574.40991pt x 404.89049pt.
 
 LaTeX Font Warning: Font shape `T1/cmr/m/scit' undefined
-(Font)              using `T1/cmr/m/it' instead on input line 316.
+(Font)              using `T1/cmr/m/it' instead on input line 232.
 
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [5 <./figs/venn.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [6]
-(./main.aux)
+ [4 <./figs/venn.pdf>] (./main.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.28pt have occurred.
@@ -1267,46 +1260,45 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: CA710595E5C01CD0A159FD7ED11E8665;921.
  ) 
 Here is how much of TeX's memory you used:
- 37763 strings out of 478862
- 848778 string characters out of 5858945
- 1284992 words of memory out of 6000000
- 54665 multiletter control sequences out of 15000+600000
- 429776 words of font info for 100 fonts, out of 8000000 for 9000
+ 37771 strings out of 478862
+ 848688 string characters out of 5858945
+ 1232141 words of memory out of 6000000
+ 54673 multiletter control sequences out of 15000+600000
+ 428598 words of font info for 96 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
- 74i,12n,72p,1193b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 74i,11n,72p,1193b,655s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/us
 r/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share
-/texlive/texmf-dist/fonts/enc/dvips/dejavu/dejavumono_t1-type1.enc}{/usr/share/
-texlive/texmf-dist/fonts/enc/dvips/dejavu/dejavumono_ts1.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/dejavu/DejaVuSansMono-Bold.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/dejavu/DejaVuSansMono-Oblique.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSansMono.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbi1200.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/cm-super/sfrm1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/cm-super/sfrm1440.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/c
-m-super/sfrm1728.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super
-/sfti1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfxc12
-00.pfb>
-Output written on main.pdf (6 pages, 320570 bytes).
+/texlive/texmf-dist/fonts/enc/dvips/dejavu/dejavumono_ts1.enc}{/usr/share/texli
+ve/texmf-dist/fonts/enc/dvips/dejavu/dejavumono_t1-type1.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/dejavu/DejaVuSansMono-Oblique.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/dejavu/DejaVuSansMono.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbi1200.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/cm-super/sfrm1000.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/cm-super/sfrm1095.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/cm-super/sfrm1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-
+super/sfrm1440.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/s
+frm1728.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfti1200
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfxc1200.pfb>
+Output written on main.pdf (4 pages, 309451 bytes).
 PDF statistics:
- 171 PDF objects out of 1000 (max. 8388607)
- 136 compressed objects within 2 object streams
- 23 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 189 PDF objects out of 1000 (max. 8388607)
+ 156 compressed objects within 2 object streams
+ 27 named destinations out of 1000 (max. 500000)
+ 74 words of extra memory for PDF output out of 10000 (max. 10000000)
 

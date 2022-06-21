@@ -15,7 +15,7 @@ code cells. Every other part of the document
 are exactly the same as `North American GeoGebra Journal`'s template.
 
 ## Example
-![main-1](https://user-images.githubusercontent.com/19341857/174749767-7b31f04b-1530-448d-a2ff-d8466a29d40c.png)
+![main](https://user-images.githubusercontent.com/19341857/174753577-1d77b7c2-79a3-44be-929c-3415b3f3bbd2.png)
  [PDF Example](main.pdf) 
 
 ## Installation

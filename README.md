@@ -19,7 +19,7 @@ are exactly the same as `North American GeoGebra Journal`'s template.
  [PDF Example](main.pdf) 
 
 ## Installation
-You can download this template by typing the following on your terminal
+You can download this template by typing the following on your terminal:
 
 ```
 git clone https://github.com/soobinrho/latex-college-assignments-template.git

@@ -1,4 +1,4 @@
-# $\LaTeX$ Template for College Assignments
+#   h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x $\LaTeX$ Template for College Assignments
 `North American GeoGebra Journal Template`
 `Jupyter Lab Code Output Cells Template`
 ***

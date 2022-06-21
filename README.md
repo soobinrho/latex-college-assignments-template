@@ -1,4 +1,4 @@
-# <img src="https://render.githubusercontent.com/render/math?math=\LaTeX"> Template for College Assignments
+# LaTeX Template for College Assignments
 `North American GeoGebra Journal Template` 
 `Jupyter Lab Code Cells Template`
 

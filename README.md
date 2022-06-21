@@ -3,9 +3,10 @@
 `Jupyter Lab Code Cells Template`
 
 ## Sources
-First, this template was cloned from [https://github.com/jamesquinlan/nagj](https://github.com/jamesquinlan/nagj). 
+First, this template is a clone of the 
+[North American GeoGebra Journal Template](https://github.com/jamesquinlan/nagj). 
 Also, Jupyter Lab's $\LaTeX$ preambles for
-code cells were cloned into `coding.tex`.
+code cells were combined together.
 What this means is that this template has
 the best of both worlds. 
 

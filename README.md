@@ -1,5 +1,5 @@
-#   h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x $\LaTeX$ Template for College Assignments
-`North American GeoGebra Journal Template`
+# <img src="https://render.githubusercontent.com/render/math?math=\LaTeX"> Template for College Assignments
+`North American GeoGebra Journal Template` <br>
 `Jupyter Lab Code Output Cells Template`
 ***
 

@@ -36,5 +36,5 @@ Personally, I edit all my $\LaTeX$ documents by:
 2. installing Jupyter Lab, which comes with [Anaconda](https://www.anaconda.com/), and
 3. using [Jupyter Lab LaTeX Extension](https://github.com/jupyterlab/jupyterlab-latex).
 
-However, you could use `vim`, `TeX Studio`, `Jupyter Lab`, or any other
+However, you could use `vim`, `TeX Studio`, or any other
 editing software to edit this.

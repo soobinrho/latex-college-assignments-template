@@ -17,7 +17,7 @@ are exactly the same as `North American GeoGebra Journal`'s template.
 ## Example
 ![main](https://user-images.githubusercontent.com/19341857/174758273-d4410ce1-afe4-4d4e-8229-1f069ee8a165.png)
 
- [PDF Example](main.pdf) 
+[[PDF Example](main.pdf)]
 
 ## Installation
 You can download this template by typing the following on your terminal:

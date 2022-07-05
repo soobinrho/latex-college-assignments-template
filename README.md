@@ -15,7 +15,7 @@ code cells. Every other part of the document
 are exactly the same as `North American GeoGebra Journal`'s template.
 
 ## Example
-<img src="https://user-images.githubusercontent.com/19341857/174758273-d4410ce1-afe4-4d4e-8229-1f069ee8a165.png" width="300px">
+<img src="https://user-images.githubusercontent.com/19341857/174758273-d4410ce1-afe4-4d4e-8229-1f069ee8a165.png" width="500px">
 
 [[PDF Example](main.pdf)]
 
@@ -28,7 +28,7 @@ git clone https://github.com/soobinrho/latex-college-assignments-template.git
 
 Alternatively, you could just click `Download ZIP`.
 
-<img src="https://user-images.githubusercontent.com/19341857/174758825-c2caf22c-29cb-4ffa-816c-5ad1c4a0613e.png" width="300px">
+<img src="https://user-images.githubusercontent.com/19341857/174758825-c2caf22c-29cb-4ffa-816c-5ad1c4a0613e.png" width="500px">
 
 After you download this repository, you can use it just as a normal `.tex` file. 
 Personally, I edit all my $\LaTeX$ documents by:

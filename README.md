@@ -38,3 +38,7 @@ Personally, I edit all my $\LaTeX$ documents by:
 
 However, you could use `vim`, `Emacs`, `TeX Studio`, or any other
 editing software to edit this.
+
+<br>
+<br>
+<br>
